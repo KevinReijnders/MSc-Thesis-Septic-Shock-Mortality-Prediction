@@ -1,0 +1,24 @@
+{
+    "n_features": 7,
+    "feature_indices": [
+        13,
+        19,
+        14,
+        17,
+        5,
+        25,
+        11
+    ],
+    "feature_names": [
+        "got(asat)",
+        "ptt",
+        "gpt(alat)",
+        "platelets",
+        "bilirubin",
+        "white blood cells",
+        "fio2"
+    ],
+    "n_rules": 4,
+    "seed": 39,
+    "cluster_type": "k-means"
+}

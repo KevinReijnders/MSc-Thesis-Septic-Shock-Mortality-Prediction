@@ -1,0 +1,7 @@
+Some general statistics regarding the project:
+- 963 lines of code in the Python modules (including comments)
+- 3.843 lines of code in the Jupyter notebooks (including comments)
+- 39.008 words in the pdf of the thesis excluding tables, figures, table of contents, etc.
+- 52 figures (including appendices)
+- 45 tables (including appendices)
+- 108 references

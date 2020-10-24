@@ -1,0 +1,380 @@
+{
+    "1": {
+        "n_features": 1,
+        "n_rules": 2,
+        "roc_auc": 0.5695211705030097,
+        "auk": 0.034240257238277075,
+        "error": false,
+        "seed": 1,
+        "fitting_time (minutes)": 1.4366226156552633
+    },
+    "2": {
+        "n_features": 1,
+        "n_rules": 3,
+        "roc_auc": 0.5695211705030097,
+        "auk": 0.034240257238277075,
+        "error": false,
+        "seed": 2,
+        "fitting_time (minutes)": 1.2425129135449728
+    },
+    "3": {
+        "n_features": 1,
+        "n_rules": 4,
+        "roc_auc": 0.5695557443735898,
+        "auk": 0.03429247291996252,
+        "error": false,
+        "seed": 3,
+        "fitting_time (minutes)": 1.5262038946151733
+    },
+    "4": {
+        "n_features": 1,
+        "n_rules": 5,
+        "roc_auc": 0.5696949460607056,
+        "auk": 0.034506013211734084,
+        "error": false,
+        "seed": 4,
+        "fitting_time (minutes)": 1.3091755112012227
+    },
+    "5": {
+        "n_features": 1,
+        "n_rules": 6,
+        "roc_auc": 0.5695900844354865,
+        "auk": 0.03435084013715934,
+        "error": false,
+        "seed": 5,
+        "fitting_time (minutes)": 1.5883906006813049
+    },
+    "6": {
+        "n_features": 1,
+        "n_rules": 7,
+        "roc_auc": 0.5692495742567489,
+        "auk": 0.03384641534897134,
+        "error": false,
+        "seed": 6,
+        "fitting_time (minutes)": 1.7239746133486429
+    },
+    "7": {
+        "n_features": 2,
+        "n_rules": 2,
+        "roc_auc": 0.5989634445882766,
+        "auk": 0.045858080391072246,
+        "error": false,
+        "seed": 7,
+        "fitting_time (minutes)": 1.482347265879313
+    },
+    "8": {
+        "n_features": 2,
+        "n_rules": 3,
+        "roc_auc": 0.5995145387158596,
+        "auk": 0.046375265794472764,
+        "error": false,
+        "seed": 8,
+        "fitting_time (minutes)": 1.4099091728528341
+    },
+    "9": {
+        "n_features": 2,
+        "n_rules": 4,
+        "roc_auc": 0.599150626484796,
+        "auk": 0.04578057095112355,
+        "error": false,
+        "seed": 9,
+        "fitting_time (minutes)": 1.2707010904947917
+    },
+    "10": {
+        "n_features": 2,
+        "n_rules": 5,
+        "roc_auc": 0.5977578399280069,
+        "auk": 0.04647012006425663,
+        "error": false,
+        "seed": 10,
+        "fitting_time (minutes)": 1.4418492952982584
+    },
+    "11": {
+        "n_features": 2,
+        "n_rules": 6,
+        "roc_auc": 0.5993930845200642,
+        "auk": 0.046981841460426665,
+        "error": false,
+        "seed": 11,
+        "fitting_time (minutes)": 1.3927300930023194
+    },
+    "12": {
+        "n_features": 2,
+        "n_rules": 7,
+        "roc_auc": 0.5975699613129953,
+        "auk": 0.04593622454913365,
+        "error": false,
+        "seed": 12,
+        "fitting_time (minutes)": 1.4231998443603515
+    },
+    "13": {
+        "n_features": 3,
+        "n_rules": 2,
+        "roc_auc": 0.5925755387249814,
+        "auk": 0.04279337201887895,
+        "error": false,
+        "seed": 13,
+        "fitting_time (minutes)": 1.464453140894572
+    },
+    "14": {
+        "n_features": 3,
+        "n_rules": 3,
+        "roc_auc": 0.5917796845665715,
+        "auk": 0.042350923463438064,
+        "error": false,
+        "seed": 14,
+        "fitting_time (minutes)": 1.3586842974026998
+    },
+    "15": {
+        "n_features": 3,
+        "n_rules": 4,
+        "roc_auc": 0.5986399804748095,
+        "auk": 0.04564259864132664,
+        "error": false,
+        "seed": 15,
+        "fitting_time (minutes)": 1.4740779320398967
+    },
+    "16": {
+        "n_features": 3,
+        "n_rules": 5,
+        "roc_auc": 0.5973381572646695,
+        "auk": 0.04566194379644456,
+        "error": false,
+        "seed": 16,
+        "fitting_time (minutes)": 1.5814859469731648
+    },
+    "17": {
+        "n_features": 3,
+        "n_rules": 6,
+        "roc_auc": 0.5981317510109445,
+        "auk": 0.04616971382009043,
+        "error": false,
+        "seed": 17,
+        "fitting_time (minutes)": 1.6575847228368124
+    },
+    "18": {
+        "n_features": 3,
+        "n_rules": 7,
+        "roc_auc": 0.6044447031456449,
+        "auk": 0.04962268682682393,
+        "error": false,
+        "seed": 18,
+        "fitting_time (minutes)": 1.881030229727427
+    },
+    "19": {
+        "n_features": 4,
+        "n_rules": 2,
+        "roc_auc": 0.6210217356444885,
+        "auk": 0.055559624632453765,
+        "error": false,
+        "seed": 19,
+        "fitting_time (minutes)": 1.3832188407580057
+    },
+    "20": {
+        "n_features": 4,
+        "n_rules": 3,
+        "roc_auc": 0.6169352518023091,
+        "auk": 0.053349112425410045,
+        "error": false,
+        "seed": 20,
+        "fitting_time (minutes)": 1.4553027510643006
+    },
+    "21": {
+        "n_features": 4,
+        "n_rules": 4,
+        "roc_auc": 0.6070880021063243,
+        "auk": 0.04991673842951986,
+        "error": false,
+        "seed": 21,
+        "fitting_time (minutes)": 1.374098046620687
+    },
+    "22": {
+        "n_features": 4,
+        "n_rules": 5,
+        "roc_auc": 0.6176801074224423,
+        "auk": 0.05395923532062054,
+        "error": false,
+        "seed": 22,
+        "fitting_time (minutes)": 2.5987311283747356
+    },
+    "23": {
+        "n_features": 4,
+        "n_rules": 6,
+        "roc_auc": 0.6156319339427012,
+        "auk": 0.05858590088034729,
+        "error": false,
+        "seed": 23,
+        "fitting_time (minutes)": 2.1959689100583395
+    },
+    "24": {
+        "n_features": 4,
+        "n_rules": 7,
+        "roc_auc": 0.6257233583632119,
+        "auk": 0.06381666946186389,
+        "error": false,
+        "seed": 24,
+        "fitting_time (minutes)": 2.1310195167859396
+    },
+    "25": {
+        "n_features": 5,
+        "n_rules": 2,
+        "roc_auc": 0.6258366920225279,
+        "auk": 0.061474898842991205,
+        "error": false,
+        "seed": 25,
+        "fitting_time (minutes)": 1.3580137928326925
+    },
+    "26": {
+        "n_features": 5,
+        "n_rules": 3,
+        "roc_auc": 0.6175749562824446,
+        "auk": 0.05796187094423366,
+        "error": false,
+        "seed": 26,
+        "fitting_time (minutes)": 1.9337310910224914
+    },
+    "27": {
+        "n_features": 5,
+        "n_rules": 4,
+        "roc_auc": 0.6122305927090761,
+        "auk": 0.055393781700640625,
+        "error": false,
+        "seed": 27,
+        "fitting_time (minutes)": 1.5400091846783956
+    },
+    "28": {
+        "n_features": 5,
+        "n_rules": 5,
+        "roc_auc": 0.6155301738132024,
+        "auk": 0.058991929035246096,
+        "error": false,
+        "seed": 28,
+        "fitting_time (minutes)": 1.3968972444534302
+    },
+    "29": {
+        "n_features": 5,
+        "n_rules": 6,
+        "roc_auc": 0.615596647661771,
+        "auk": 0.0579868182183436,
+        "error": false,
+        "seed": 29,
+        "fitting_time (minutes)": 1.5621513605117798
+    },
+    "30": {
+        "n_features": 5,
+        "n_rules": 7,
+        "roc_auc": 0.6221328376595527,
+        "auk": 0.06295899216717415,
+        "error": false,
+        "seed": 30,
+        "fitting_time (minutes)": 1.9389507095019023
+    },
+    "31": {
+        "n_features": 6,
+        "n_rules": 2,
+        "roc_auc": 0.6504607203240365,
+        "auk": 0.07122430571326992,
+        "error": false,
+        "seed": 31,
+        "fitting_time (minutes)": 1.2315300226211547
+    },
+    "32": {
+        "n_features": 6,
+        "n_rules": 3,
+        "roc_auc": 0.6472307106412343,
+        "auk": 0.07034926749289828,
+        "error": false,
+        "seed": 32,
+        "fitting_time (minutes)": 1.6818469921747843
+    },
+    "33": {
+        "n_features": 6,
+        "n_rules": 4,
+        "roc_auc": 0.6412236861841698,
+        "auk": 0.06917841988483114,
+        "error": false,
+        "seed": 33,
+        "fitting_time (minutes)": 1.5220235347747804
+    },
+    "34": {
+        "n_features": 6,
+        "n_rules": 5,
+        "roc_auc": 0.6377319268959586,
+        "auk": 0.06522934484070358,
+        "error": false,
+        "seed": 34,
+        "fitting_time (minutes)": 1.4739730954170227
+    },
+    "35": {
+        "n_features": 6,
+        "n_rules": 6,
+        "roc_auc": 0.6459006664091977,
+        "auk": 0.07172871619438263,
+        "error": false,
+        "seed": 35,
+        "fitting_time (minutes)": 1.7964325865109763
+    },
+    "36": {
+        "n_features": 6,
+        "n_rules": 7,
+        "roc_auc": 0.652360064377228,
+        "auk": 0.07351444638114832,
+        "error": false,
+        "seed": 36,
+        "fitting_time (minutes)": 1.807628826300303
+    },
+    "37": {
+        "n_features": 7,
+        "n_rules": 2,
+        "roc_auc": 0.7028183253163709,
+        "auk": 0.09744392554683193,
+        "error": false,
+        "seed": 37,
+        "fitting_time (minutes)": 1.2338810324668885
+    },
+    "38": {
+        "n_features": 7,
+        "n_rules": 3,
+        "roc_auc": 0.7080882969296587,
+        "auk": 0.09842234458197602,
+        "error": false,
+        "seed": 38,
+        "fitting_time (minutes)": 1.5774059732755026
+    },
+    "39": {
+        "n_features": 7,
+        "n_rules": 4,
+        "roc_auc": 0.7085764235543279,
+        "auk": 0.09885605422722309,
+        "error": false,
+        "seed": 39,
+        "fitting_time (minutes)": 1.625698415438334
+    },
+    "40": {
+        "n_features": 7,
+        "n_rules": 5,
+        "roc_auc": 0.7077600993672467,
+        "auk": 0.09812457033664479,
+        "error": false,
+        "seed": 40,
+        "fitting_time (minutes)": 1.6322694778442384
+    },
+    "41": {
+        "n_features": 7,
+        "n_rules": 6,
+        "roc_auc": 0.7054035722486336,
+        "auk": 0.09881696937213467,
+        "error": false,
+        "seed": 41,
+        "fitting_time (minutes)": 1.6166112144788107
+    },
+    "42": {
+        "n_features": 7,
+        "n_rules": 7,
+        "roc_auc": 0.7095203876676013,
+        "auk": 0.10036994373723046,
+        "error": false,
+        "seed": 42,
+        "fitting_time (minutes)": 1.6642596125602722
+    }
+}

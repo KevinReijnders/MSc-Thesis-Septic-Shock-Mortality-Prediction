@@ -1,0 +1,27 @@
+{
+    "1": {
+        "features": "all",
+        "n_layers": 5,
+        "n_units_per_layer": [
+            35,
+            77,
+            221,
+            417,
+            113
+        ],
+        "dropout_rates": [
+            0.29339685359898005,
+            0.16154876112313002,
+            0.15033613909798102,
+            0.021615340007928002
+        ]
+    },
+    "2": {
+        "features": "best_pfs",
+        "n_layers": 1,
+        "n_units_per_layer": [
+            127
+        ],
+        "dropout_rates": []
+    }
+}

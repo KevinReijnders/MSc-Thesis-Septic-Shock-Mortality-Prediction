@@ -1,0 +1,41 @@
+{
+    "1": {
+        "n_layers": 2,
+        "n_units_per_layer": [
+            9,
+            17
+        ],
+        "dropout_rate_per_layer": [
+            0.005878626744090465
+        ],
+        "roc_auc": 0.6687717494152707,
+        "auk": 0.08102155409189418,
+        "fitting_time (minutes)": 25.24465860525767
+    },
+    "2": {
+        "n_layers": 2,
+        "n_units_per_layer": [
+            2,
+            15
+        ],
+        "dropout_rate_per_layer": [
+            0.03483348642884836
+        ],
+        "roc_auc": 0.7096297018575082,
+        "auk": 0.10052215025473762,
+        "fitting_time (minutes)": 27.58460105260213
+    },
+    "3": {
+        "n_layers": 2,
+        "n_units_per_layer": [
+            8,
+            9
+        ],
+        "dropout_rate_per_layer": [
+            0.09038553729912496
+        ],
+        "roc_auc": 0.6611406796451544,
+        "auk": 0.07932000104601207,
+        "fitting_time (minutes)": 26.086430339018502
+    }
+}
