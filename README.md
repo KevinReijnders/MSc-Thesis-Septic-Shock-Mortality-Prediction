@@ -15,7 +15,7 @@ My master's thesis project in completion of the Data Science & Entrepreneurship 
 **Software Implementation**
 ```bibtex
 @software{reijnders2020software
-  title = {Septic Shock Mortality Prediction Using Deep Learning and Probabilistic Fuzzy Systems: Software Materials},
+  title = {{Septic Shock Mortality Prediction Using Deep Learning and Probabilistic Fuzzy Systems: Software Materials}},
   author = {Reijnders, Kevin},
   url = {https://github.com/KevinReijnders/MSc-Thesis-Septic-Shock-Mortality-Prediction},
   version = {1.0},
